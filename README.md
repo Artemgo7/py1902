@@ -40,7 +40,7 @@ git add test.filetype
 создаем изменение в репозитории, добавляя файл и обязательно пишем название изменения
 git commit -m "first commit"
 подключаем удаленный репозиторий с сайта называя удаленный репозиторий = origin (это пример ссылки на мой репозиторий)
-git remote add origin https://github.com/NakonechnyiMykhail/123.git
+git remote add origin https://github.com/name/123.git
 заливаем на сайт (удаленный репозиторий) наш коммит с нашего локального репозитория называемого master
 git push -u origin master
 
@@ -61,9 +61,8 @@ git config --global user.email "xxx@xxx.com"
 
 Проекты по скретч завтра будете показывать у проектора
 
-Прочтите, у кого есть проблемы с чем-то
-http://nikita-petrov.com/drupal/kak-rabotat-s-github-repozitoriyami
-
 #### Список основных ресурсов
 ***Git comand***
+*Прочтите, у кого есть проблемы с чем-то*
 > - http://nikita-petrov.com/drupal/kak-rabotat-s-github-repozitoriyami
+> - https://www.markdownguide.org/basic-syntax/
